@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+}
+
+
+header {
+
+    display: flex;
+    justify-content: space-around;
+    background-color: goldenrod;
+    color: white;
+    border: 3px solid grey;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    width: 100%;
+    align-items: start;
+    padding: 0;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color:grey;
+}
